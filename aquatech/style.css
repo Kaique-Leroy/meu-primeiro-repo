@@ -174,3 +174,23 @@ cursor: pointer;
 label{
     margin-bottom: 10px;
 }
+
+.card3 {
+    background-color: rgba(255, 255, 255, 0.85);
+    display: flex;
+    flex-direction: column;
+    border-radius: 30px;
+    width: 300px;
+    height: 420px;
+    align-items: center;
+    border: 2px solid #32b9cd;
+}
+
+.card3 h2 {
+    color: palevioletred;
+}
+
+.btn{
+
+    margin-left: 0px;
+}
